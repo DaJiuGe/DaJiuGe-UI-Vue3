@@ -1,0 +1,8 @@
+// Vitest Snapshot v1
+
+exports[`Checkbox > should toggle checked when click 1`] = `
+"<button class=\\"su-button su-button--default is-round\\" data-v-c89ffb08=\\"\\">
+  <!--v-if-->
+  <!--v-if-->
+</button>"
+`;

@@ -1,0 +1,5 @@
+// Vitest Snapshot v1
+
+exports[`Checkbox > should toggle checked when click 1`] = `"<label class=\\"su-checkbox\\" data-v-5ac25baf=\\"\\"><span class=\\"su-checkbox__input\\" data-v-5ac25baf=\\"\\"><span class=\\"su-checkbox__inner\\" data-v-5ac25baf=\\"\\"></span><input type=\\"checkbox\\" class=\\"su-checkbox__original\\" data-v-5ac25baf=\\"\\"></span><span class=\\"su-checkbox__label\\" data-v-5ac25baf=\\"\\"></span></label>"`;
+
+exports[`Checkbox > should toggle checked when click 2 1`] = `"<label class=\\"su-checkbox\\" data-v-5ac25baf=\\"\\"><span class=\\"su-checkbox__input\\" data-v-5ac25baf=\\"\\"><span class=\\"su-checkbox__inner\\" data-v-5ac25baf=\\"\\"></span><input type=\\"checkbox\\" class=\\"su-checkbox__original\\" data-v-5ac25baf=\\"\\"></span><span class=\\"su-checkbox__label\\" data-v-5ac25baf=\\"\\"></span></label>"`;
